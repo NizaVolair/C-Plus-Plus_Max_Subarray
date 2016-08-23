@@ -1,0 +1,35 @@
+Enumeration: 120
+Enumeration: 120
+[8, 1, 3, 3, 1, -1, -4, -6, 2, 8, 19]
+Linear: 34
+
+Enumeration: 105
+Enumeration: 105
+[2, 9, 8, 6, 5]
+Linear: 30
+
+Enumeration: 66
+Enumeration: 66
+[23, 24, -1, -7, -8, 19]
+Linear: 50
+
+Enumeration: 45
+Enumeration: 45
+[59, 26, -53, 58, 97]
+Linear: 187
+
+Enumeration: 36
+Enumeration: 36
+[3, 2, 1, 1]
+Linear: 7
+
+Enumeration: 45
+Enumeration: 45
+[12, 99, 99]
+Linear: 210
+
+Enumeration: 36
+Enumeration: 36
+[4, -1, 2, 1]
+Linear: 6
+
